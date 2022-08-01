@@ -9,8 +9,6 @@ const studentdData = [];
 
 if (localStorage.getItem("studentData") !== null) {
   studentdData.push(...JSON.parse(localStorage.getItem("studentData")));
-} else {
-  studentdData = [];
 }
 
 let stdData = -1;
