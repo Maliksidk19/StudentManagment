@@ -2,7 +2,7 @@ const recordTable = document.getElementById("recordTable");
 const updateBtn = document.getElementById("updateRecord");
 const studentdData = [
   {
-    name: "dsahjgdas",
+    name: "jackwilder",
     email: "jsadas@jasd.co",
     marks: "342",
   },
